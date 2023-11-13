@@ -1,0 +1,23 @@
+table{
+    border: 0px;
+    background-image: linear-gradient(rgb(120, 120, 233), darkmagenta, rgb(35, 170, 228));
+    color: white;
+    text-align: center;  
+    border-radius: 20px;
+    width: 90%;
+    padding: 100px 95px;
+    
+}
+th{
+    font-size: 30px;
+    background-color: darkorchid;   
+}
+th:hover{
+    color:rgb(221, 149, 221)
+}
+.log{
+    line-height: 50px;
+}
+.log:hover{
+    color: rgb(177, 135, 207)
+}
